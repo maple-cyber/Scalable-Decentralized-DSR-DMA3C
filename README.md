@@ -1,2 +1,2 @@
-# Scalable-Decentralized-DSR-DMA3C
-Supplementary materials and implementation details for the paper “Scalable and Fully Decentralized Distribution System Restoration via DTDE-Based Multi-Agent Reinforcement Learning”.
+# DMA3C-for-Decentralized-DSR
+Supplementary materials and implementation details for the paper “Decentralized Distribution System Restoration via Scalable Multi-Agent Reinforcement Learning with Reduced Communication Cost”.
